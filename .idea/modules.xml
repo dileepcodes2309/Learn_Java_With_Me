@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Basics/01-Basics.iml" filepath="$PROJECT_DIR$/01-Basics/01-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Opeartors/02-Opeartors.iml" filepath="$PROJECT_DIR$/02-Opeartors/02-Opeartors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Modifiers/03-Modifiers.iml" filepath="$PROJECT_DIR$/03-Modifiers/03-Modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-OOPS/04-OOPS.iml" filepath="$PROJECT_DIR$/04-OOPS/04-OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Exception/05-Exception.iml" filepath="$PROJECT_DIR$/05-Exception/05-Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Multithreading/06-Multithreading.iml" filepath="$PROJECT_DIR$/06-Multithreading/06-Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Collection/07-Collection.iml" filepath="$PROJECT_DIR$/07-Collection/07-Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Functional_Programming/08-Functional_Programming.iml" filepath="$PROJECT_DIR$/08-Functional_Programming/08-Functional_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Method_References/09-Method_References.iml" filepath="$PROJECT_DIR$/09-Method_References/09-Method_References.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Streams/10-Streams.iml" filepath="$PROJECT_DIR$/10-Streams/10-Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Scenario_Based_Question/11-Scenario_Based_Question.iml" filepath="$PROJECT_DIR$/11-Scenario_Based_Question/11-Scenario_Based_Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exploring_Java.iml" filepath="$PROJECT_DIR$/.idea/Exploring_Java.iml" />
+    </modules>
+  </component>
+</project>
